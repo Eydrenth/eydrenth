@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 - 💚 &nbsp; Founder.
-- 😎 &nbsp; Software Developer and Graphic Designer with a focus on UX UI.
+- 😎 &nbsp; Software Developer and Graphic Designer (UX UI).
 - 💙 &nbsp; Love Design and Programming.
 
 ```rust
