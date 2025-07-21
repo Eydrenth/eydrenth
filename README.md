@@ -5,9 +5,6 @@
   <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
     <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
-  <a href="https://twitter.com/eydrenth" target="_blank">
-    <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
   <a href="https://www.linkedin.com/in/JoseOsp" target="_blank">
     <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
   </a>
@@ -44,8 +41,8 @@ Here are some ideas to get you started:
 <h3>💻 About Me </h3>
 
 
-- 💚 &nbsp; Web UI Developer at Globant.
-- 😎 &nbsp; Frontend Developer and Graphic Designer with a focus on UX UI.
+- 💚 &nbsp; Founder.
+- 😎 &nbsp; Software Developer and Graphic Designer with a focus on UX UI.
 - 💙 &nbsp; Love Design and Programming.
 
 ```rust
