@@ -2,21 +2,21 @@
 ### Nice to meet you, my name is Jose!
 
 <div align="left">
-  <a href="https://codesandbox.io/u/Eydrent" target="_blank">
+  <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
     <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
-  <a href="https://twitter.com/eydrent" target="_blank">
+  <a href="https://twitter.com/eydrenth" target="_blank">
     <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/JoseOsp" target="_blank">
     <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
   </a>
 
-   <a href="https://api.daily.dev/get?r=Eydrent" target="_blank">
+   <a href="https://api.daily.dev/get?r=Eydrenth" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/eydrent/eydrent/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/eydrenth/eydrenth/devcard/devcard.svg"
     />
   </a>
   
@@ -48,50 +48,55 @@ Here are some ideas to get you started:
 - 😎 &nbsp; Frontend Developer and Graphic Designer with a focus on UX UI.
 - 💙 &nbsp; Love Design and Programming.
 
-```dart
-main() {
-  print( SofDev.currentJob );
+```rust
+fn main() {
+    println!("{}", SofDev::CURRENT_JOB);
+    SofDev::is_repo_helpful(true);
 }
 
-class SofDev {
-  
-  static const String currentJob = 'Frontend Tech Lead';
-  static final bool openForOpportunity = true;
-  
-  static void currentProjects () {
-    final String currentlyLearning = 'Improving Flutter and Dart Development skills 📚';
-    final String currentlyWorkingOn = 'React - Flutter';
-    final String eccitedFor = 'Metaverse, WEB3 and IOT';
-  }
-  
-  static void contactMe() {
-    final String email = 'JoseErneyOsp@gmail.com';
-    final String linkTree = 'https://linktr.ee/eydent';
-  }
-  
-  static void isRepoHelpFull( bool isHelpFull ) {
-    if ( isHelpFull == true ) {
-      start.it();
-      fork.it();
+fn star_it() {
+    println!("Thank you for starring the repo! ⭐");
+}
+
+struct SofDev;
+
+impl SofDev {
+    const CURRENT_JOB: &'static str = "Software Developer";
+    
+    static OPEN_FOR_OPPORTUNITY: bool = true;
+
+    pub fn current_projects() {
+        let _currently_learning: &str = "Physics, Quantum and improving my AI Development Skills";
+        let _currently_working_on: &str = "AI, Cybersecurity, Defence, Quantum";
+        let _excited_for: &str = "Quantum, AI, Cybersecurity, Defence, Blockchain, WEB3, IOT";
     }
-  }
-  
+
+    pub fn contact_me() {
+        let _email: &str = "*****";
+    }
+
+    // Function parameters follow the pattern `name: type`.
+    pub fn is_repo_helpful(is_helpful: bool) {
+        if is_helpful {
+            star_it();
+        }
+    }
 }
 ```
 
-![Metrics](https://raw.githubusercontent.com/eydrent/eydrent/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/eydrenth/eydrenth/github-metrics/github-metrics.svg)
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML  |  CSS  |  SASS
-- 🌟 &nbsp; Material UI  | Antdesign  |  Bootstrap
-- 🏮 &nbsp; React  |  Flutter
-- 💻 &nbsp; JavaScript  |  TypeScript  |  Dart  |  Python  |  Bash
+- 🌐 &nbsp; HTML  |  CSS
+- 🌟 &nbsp; Material UI  | Antdesign  |  Bootstrap |  Tailwind
+- 🏮 &nbsp; React  |  NextJS  |  Flutter  |  Tauri
+- 💻 &nbsp; JavaScript  |  TypeScript  |  Rust  |  Dart  |  Python  |  Bash
 - 📰 &nbsp; Adobe XD  |  Axure RP  |  Figma  |  Adobe Suite  |  illustrator 
 - 🔧 &nbsp; WebStorm  |  IntelliJ IDEA  |  VSCode |  Git  |  Git Flow  |  Github  |  CodeSandbox
-- 🛢 &nbsp; MondoDB
-- 🦾 &nbsp; SCRUM  |  BEM  |  Mobile-first  |  Atomic Design
+- 🛢 &nbsp; MondoDB  |  PostgressSQL
+- 🦾 &nbsp; SCRUM  |  BEM  |  Mobile-first  |  Atomic Design  | Clean Architecture
 - 🤖 &nbsp; Slack  |  Discord
 - ☁ &nbsp; Atlassian  |  AWS  |  Firebase
 
@@ -102,16 +107,16 @@ class SofDev {
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center">
 <br>
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=eydrenth&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 </br>
 <br>
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eydrent&amp;theme=radical&amp;hide_border=false" alt="">
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eydrenth&amp;theme=radical&amp;hide_border=false" alt="">
  </br>
 <br>
- <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+ <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrenth&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
  </br>
 </p>
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@Eydrent](https://github.com/eydrent)
+⭐️ From [@Eydrenth](https://github.com/eydrenth)
