@@ -1,5 +1,5 @@
 # Hi there 👋
-### Nice to meet you, my name is Jose!
+### Nice to meet you!
 
 <div align="left">
   <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
