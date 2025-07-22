@@ -1,6 +1,7 @@
 # Hi there 👋
 ### Nice to meet you!
 
+<!--
 <div align="left">
   <a href="https://codesandbox.io/u/Eydrenth" target="_blank">
     <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -18,6 +19,7 @@
   </a>
   
 </div>
+-->
 
 <br />
 <br />
@@ -113,7 +115,9 @@ impl SofDev {
  <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrenth&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
  </br>
 </p>
-
+<!--
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
-
+-->
+<!--
 ⭐️ From [@Eydrenth](https://github.com/eydrenth)
+-->
